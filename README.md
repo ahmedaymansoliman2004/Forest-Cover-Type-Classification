@@ -1,6 +1,16 @@
-<img width="1150" height="488" alt="logo" src="https://github.com/user-attachments/assets/28f3a007-347e-4aab-a146-5653e94ac95e" />
-
-# 🌲 Forest Cover Type Classification
+<div style=" display: flex; align-items: center; justify-content: space-between; padding: 20px; border-bottom: 3px solid #1f2937;">
+    <div style="flex: 1; text-align: left;">
+        <img src="Images/Elevvo Logo.png" style="height:80px;">
+    </div>
+    <div style="flex: 2; text-align: center;">
+        <h1 style="margin:0; font-size:28px; font-weight:700;">
+        # 🌲 Forest Cover Type Classification
+        </h1>
+    </div>
+    <div style="flex: 1; text-align: right; margin-right: 50px;">
+        <img src="Images/logo.png" style="height:100px;">
+    </div>
+</div>
 
 A machine learning project for multi-class classification using the UCI Covertype dataset.
 
